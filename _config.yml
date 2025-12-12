@@ -1,9 +1,6 @@
 title: Catalex Bio Technical Notes
-description: Technical summaries and application notes on industrial enzymes from Catalex Bio.
-baseurl: "/application-of-enzymes"   # the subpath for your Pages site
-url: "https://catalexbio-enzymes.github.io"  # GitHub Pages root URL
+description: Technical summaries and application notes for industrial enzymes.
+baseurl: "/application-of-enzymes"
+url: "https://catalexbio-enzymes.github.io"
 theme: jekyll-theme-cayman
 markdown: kramdown
-plugins: []
-exclude:
-  - README.md
