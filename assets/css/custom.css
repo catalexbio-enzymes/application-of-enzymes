@@ -1,0 +1,46 @@
+/* Catalex Bio — brand overrides */
+:root{
+  --brand-primary: #163D58;  /* deep navy — main brand */
+  --brand-mid:     #1883A9;  /* mid teal */
+  --brand-accent:  #00ADEF;  /* bright cyan — accent */
+  --brand-2:       #3572C9;  /* secondary blue */
+}
+
+/* Page header / title */
+.page-header,
+.header {
+  background: var(--brand-primary) !important;
+  color: #ffffff !important;
+  padding: 18px 24px;
+}
+
+/* Main title */
+.page-header h1, .page-header .title {
+  color: var(--brand-accent) !important;
+}
+
+/* Links */
+a { color: var(--brand-accent) !important; }
+a:hover { color: var(--brand-mid) !important; }
+
+/* Headings */
+h1, h2, h3, h4 { color: var(--brand-primary) !important; }
+
+/* Horizontal rule */
+hr { border: 1px solid var(--brand-mid) !important; }
+
+/* Bullet markers */
+li::marker { color: var(--brand-accent) !important; }
+
+/* Buttons (if any) */
+.btn, .button {
+  background-color: var(--brand-accent) !important;
+  color: #fff !important;
+  border: 1px solid var(--brand-2) !important;
+}
+
+/* Optional: logo sizing if added later */
+.site-logo img {
+  max-height: 72px;
+  display: inline-block;
+}
