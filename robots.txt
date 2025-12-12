@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catalexbio-enzymes.github.io/application-of-enzymes/sitemap.xml
