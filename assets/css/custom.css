@@ -1,4 +1,4 @@
-/* Catalex Bio — brand overrides */
+/* Catalex Bio — brand overrides (improved) */
 :root{
   --brand-primary: #163D58;  /* deep navy — main brand */
   --brand-mid:     #1883A9;  /* mid teal */
@@ -6,41 +6,77 @@
   --brand-2:       #3572C9;  /* secondary blue */
 }
 
-/* Page header / title */
+/* Header / title areas used by common Jekyll themes */
 .page-header,
-.header {
+.header,
+.site-header {
   background: var(--brand-primary) !important;
   color: #ffffff !important;
   padding: 18px 24px;
 }
 
-/* Main title */
-.page-header h1, .page-header .title {
+/* Main title / site title */
+.page-header h1,
+.page-header .title,
+.site-header .site-title,
+.site-title {
   color: var(--brand-accent) !important;
 }
 
-/* Links */
-a { color: var(--brand-accent) !important; }
-a:hover { color: var(--brand-mid) !important; }
+/* Page body container (theme-specific) */
+.markdown-body, .content {
+  color: #222; /* keep body text readable */
+}
+
+/* Links and hover */
+a {
+  color: var(--brand-accent) !important;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: var(--brand-mid) !important;
+  text-decoration: underline;
+}
 
 /* Headings */
-h1, h2, h3, h4 { color: var(--brand-primary) !important; }
+h1, h2, h3, h4 {
+  color: var(--brand-primary) !important;
+}
 
 /* Horizontal rule */
-hr { border: 1px solid var(--brand-mid) !important; }
+hr {
+  border: 0;
+  border-top: 1px solid var(--brand-mid) !important;
+}
 
-/* Bullet markers */
-li::marker { color: var(--brand-accent) !important; }
+/* Bullet marker compatibility (modern + fallback) */
+li::marker {
+  color: var(--brand-accent) !important;
+}
+ul li {
+  /* fallback bullet color for older browsers */
+  color: inherit;
+}
+ul { list-style-position: inside; }
 
-/* Buttons (if any) */
+/* Buttons (if present) */
 .btn, .button {
   background-color: var(--brand-accent) !important;
   color: #fff !important;
   border: 1px solid var(--brand-2) !important;
+  padding: 6px 12px;
+  border-radius: 4px;
 }
 
-/* Optional: logo sizing if added later */
+/* Logo sizing if added */
 .site-logo img {
   max-height: 72px;
   display: inline-block;
+}
+
+/* Small responsive tweaks */
+@media (max-width: 800px) {
+  .page-header, .site-header { padding: 12px 14px; }
+  .site-logo img { max-height: 56px; }
 }
