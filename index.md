@@ -1,7 +1,3 @@
-title: Catalex Bio – Technical Guide and Applications of Industrial Enzymes
-layout: default
----
-
 # Catalex Bio – Technical Guide and Applications of Industrial Enzymes
 
 This page provides introductory technical notes on the role of enzymes in
