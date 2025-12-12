@@ -15,4 +15,5 @@ manufacturing environments.
 For in-depth technical articles, application guides, and industry-specific
 enzyme resources, visit our main blog library:
 
-👉 https://catalexbio.com/blogs/
+👉 <https://catalexbio.com/blogs/>
+
