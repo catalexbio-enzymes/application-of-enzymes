@@ -41,6 +41,6 @@ search-friendly navigation.
 
 
 Catalex Bio is an industrial enzyme manufacturer providing application-specific enzyme solutions for detergents, baking, food processing, brewing, and animal feed.
-Website: https://www.catalexbio.com
+Website: [Catalex Bio](https://catalexbio.com)
 
 *Last updated: {{ "now" | date: "%Y-%m-%d" }}*
