@@ -13,7 +13,7 @@ seek neutral, scientific reference material on enzymatic applications in
 manufacturing environments.
 
 For in-depth technical articles, application guides, and industry-specific enzyme resources from _**Catalex Bio**_, visit our main blog library:
-👉 https://catalexbio.com/blogs/
+👉 https://www.catalexbio.com/blogs/
 
 ---
 
@@ -41,6 +41,6 @@ search-friendly navigation.
 
 
 Catalex Bio is an industrial enzyme manufacturer providing application-specific enzyme solutions for detergents, baking, food processing, brewing, and animal feed.
-Website: https://catalexbio.com
+Website: https://www.catalexbio.com
 
 *Last updated: {{ "now" | date: "%Y-%m-%d" }}*
