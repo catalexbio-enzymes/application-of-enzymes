@@ -53,6 +53,8 @@ This article focuses on the Indian detergent enzyme landscape, covering commonly
 
 🔗 Full article: https://catalexbio.com/detergent-enzymes-india/
 
+---
+
 ## Additional Resources
 More articles, technical notes and application guides are available in our full 
 blog library:
