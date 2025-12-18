@@ -67,6 +67,8 @@ This article focuses on flatbread applications such as chapati and roti, explain
 
 🔗 Full article: https://catalexbio.com/enzymes-chapati-roti-softness/
 
+---
+
 ## Additional Technical Resources  
 More bakery enzyme articles and guides are available in our full blog library:
 
