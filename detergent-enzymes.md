@@ -55,6 +55,17 @@ This article focuses on the Indian detergent enzyme landscape, covering commonly
 
 ---
 
+## 6. Detergent Enzymes in India — Market, Applications & Formulation Trends  
+This article covers the Indian detergent enzyme landscape, including commonly
+used enzyme types, formulation practices, wash conditions, and performance
+expectations specific to Indian households and commercial laundries. It also
+discusses cost–performance optimization, cold-wash adoption, and the growing
+role of enzyme blends in powder and liquid detergents.
+
+🔗 Full article: <https://catalexbio.com/detergent-enzymes-india/>
+
+---
+
 ## Additional Resources
 More articles, technical notes and application guides are available in our full 
 blog library:
