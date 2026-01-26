@@ -30,6 +30,16 @@ sustainability in animal feed formulations.
 
 ---
 
+## 3. Poor FCR in Poultry — Role of Feed Enzymes  
+This article examines common nutritional and formulation-related causes of
+poor feed conversion ratio (FCR) in poultry and explains how targeted enzyme
+strategies—such as xylanase, phytase, protease, and multi-enzyme systems—can
+improve nutrient utilization, gut efficiency, and overall flock performance.
+
+🔗 Full article: <https://catalexbio.com/poor-fcr-poultry-feed-enzyme/>
+
+---
+
 ## Additional Technical Resources  
 For more enzyme application guides and industry insights, visit our full
 blog library:
