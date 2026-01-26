@@ -71,7 +71,7 @@ and delayed staling. It also discusses why controlling texture at the flour-mill
 or formulation stage delivers more consistent results than relying on end-user
 preparation.
 
-🔗 Full article: <https://catalexbio.com/enzymes-chapati-roti-softness/
+🔗 Full article: <https://catalexbio.com/enzymes-chapati-roti-softness/>
 
 ---
 
