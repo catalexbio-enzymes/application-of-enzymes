@@ -25,7 +25,7 @@ Website: [https://catalexbio.com/blogs/](https://catalexbio.com/blogs/)
 ### ✔ Industry-Specific Enzyme Pages
 - [Detergent Enzymes](/application-of-enzymes/detergent-enzymes)
 - [Bakery Enzymes](/application-of-enzymes/bakery-enzymes)
-- [Brewing & Distillery Enzymes](/application-of-enzymes/brewing-enzymes)
+- [Brewing & Distillery Enzymes](/application-of-enzymes/Brewing-Distillery Enzymes)
 - [Feed Enzymes](/application-of-enzymes/feed-enzymes)
 - [Juice Processing Enzymes](/application-of-enzymes/juice-processing-enzymes)
 - [Plant-Derived Enzymes (Bromelain & Papain)](/application-of-enzymes/plant-enzymes)
