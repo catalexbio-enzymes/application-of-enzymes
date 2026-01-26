@@ -48,14 +48,27 @@ application strategies.
 
 ---
 
-## 5. Detergent Enzymes in India – Market, Applications & Formulation Trends
-This article focuses on the Indian detergent enzyme landscape, covering commonly used enzyme types, formulation practices, wash conditions, and performance expectations specific to Indian households and commercial laundries. It also discusses cost–performance optimization, cold-wash adoption, and the growing role of enzyme blends in powder and liquid detergents.
+## 5. Stain-Specific Detergent Enzyme Systems  
+This article focuses on designing stain-targeted enzyme systems, explaining how
+different enzyme combinations are optimized for protein, fat, starch, and
+polysaccharide-based soils under real-world wash conditions. It highlights the
+benefits of stain-specific approaches over generic enzyme dosing.
 
-🔗 Full article: https://catalexbio.com/detergent-enzymes-india/
+🔗 Full article: <https://catalexbio.com/stain-specific-detergent-enzyme-systems/>
 
 ---
 
-## 6. Detergent Enzymes in India — Market, Applications & Formulation Trends  
+## 6. Enzyme Blend Compatibility with Surfactant Systems  
+A technical guide on how enzyme blends interact with anionic, nonionic, and
+cationic surfactant systems. It covers formulation challenges related to
+enzyme stability, denaturation risks, builders, and process conditions, helping
+formulators design robust and compatible detergent systems.
+
+🔗 Full article: <https://catalexbio.com/detergent-enzyme-blend-compatibility-surfactant-systems/>
+
+---
+
+## 7. Detergent Enzymes in India — Market, Applications & Formulation Trends  
 This article covers the Indian detergent enzyme landscape, including commonly
 used enzyme types, formulation practices, wash conditions, and performance
 expectations specific to Indian households and commercial laundries. It also
@@ -63,8 +76,6 @@ discusses cost–performance optimization, cold-wash adoption, and the growing
 role of enzyme blends in powder and liquid detergents.
 
 🔗 Full article: <https://catalexbio.com/detergent-enzymes-india/>
-
----
 
 ## Additional Resources
 More articles, technical notes and application guides are available in our full 
