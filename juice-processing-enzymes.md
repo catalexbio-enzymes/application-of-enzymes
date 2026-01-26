@@ -21,6 +21,16 @@ formulation based on fruit type and processing objectives.
 
 ---
 
+## 2. Mango & Guava Juice Extraction Enzymes  
+This article focuses on enzyme strategies for tropical fruit processing,
+specifically mango and guava. It explains how tailored pectinase–cellulase
+systems improve pulp breakdown, juice recovery, clarity, and filtration
+performance under industrial processing conditions.
+
+🔗 Full article: <https://catalexbio.com/mango-guava-juice-extraction-enzymes/>
+
+---
+
 ## Additional Technical Resources  
 For more enzyme application guides and industry insights, visit our full
 blog library:
