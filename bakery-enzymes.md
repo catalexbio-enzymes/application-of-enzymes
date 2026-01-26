@@ -60,12 +60,6 @@ baking stages, with implications for dough rheology and final product quality.
 
 🔗 Full article: <https://catalexbio.com/bread-enzyme-interplay-guide/>
 
----
-
-## 7. Enzymes for Chapati & Roti Softness
-This article focuses on flatbread applications such as chapati and roti, explaining how enzymes like maltogenic amylase, α-amylase, xylanase, and mild protease are used to improve softness, puffing, rollability, and delayed staling. It also discusses why controlling texture at the flour-mill or formulation stage delivers more consistent results than relying on end-user preparation.
-
-🔗 Full article: https://catalexbio.com/enzymes-chapati-roti-softness/
 
 ---
 
