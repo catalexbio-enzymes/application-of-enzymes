@@ -69,6 +69,44 @@ This article focuses on flatbread applications such as chapati and roti, explain
 
 ---
 
+## 7. Enzymes for Chapati & Roti Softness  
+This article focuses on flatbread applications such as chapati and roti,
+explaining how enzymes like maltogenic amylase, α-amylase, xylanase, glucose
+oxidase, and mild protease are used to improve softness, puffing, rollability,
+and delayed staling. It also discusses why controlling texture at the flour-mill
+or formulation stage delivers more consistent results than relying on end-user
+preparation.
+
+🔗 Full article: <https://catalexbio.com/enzymes-chapati-roti-softness/>
+
+---
+
+## 8. Glucose Oxidase Enzyme for Baking  
+A technical overview of glucose oxidase in bakery applications, covering its
+role in gluten strengthening, dough stability, oxidation control, and its use
+as a clean-label alternative to chemical oxidants such as potassium bromate.
+
+🔗 Full article: <https://catalexbio.com/glucose-oxidase-enzyme-for-baking/>
+
+---
+
+## 9. Baking Enzymes for Flour Mills and Bakeries  
+This article explains how flour mills and industrial bakeries use enzyme
+systems to standardize flour performance, improve dough handling, and achieve
+consistent finished product quality across different batches and seasons.
+
+🔗 Full article: <https://catalexbio.com/baking-enzymes-for-flour-mills-and-bakeries/>
+
+---
+
+## 10. Bakery Enzymes in India — Bread, Biscuits & Roti  
+An overview of bakery enzyme applications specific to the Indian market,
+covering bread, biscuits, buns, chapati, and roti, with insights into process
+conditions, formulation challenges, and enzyme selection strategies.
+
+🔗 Full article: <https://catalexbio.com/bakery-enzymes-india-for-bread-biscuits-roti/>
+
+
 ## Additional Technical Resources  
 More bakery enzyme articles and guides are available in our full blog library:
 
