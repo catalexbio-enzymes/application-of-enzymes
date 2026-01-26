@@ -29,6 +29,17 @@ industrial relevance, operating conditions, and formulation considerations.
 
 ---
 
+## 3. Bromelain vs Papain — Technical Comparison  
+A comparative technical overview of bromelain and papain, highlighting their
+key differences in enzyme origin, catalytic behavior, pH–temperature profiles,
+substrate specificity, and suitability across food, nutraceutical, and
+industrial applications.
+
+🔗 Full article: <https://catalexbio.com/bromelain-vs-papain/>
+
+
+---
+
 ## Additional Technical Resources  
 For more enzyme application guides and technical articles, visit the full
 blog library:
